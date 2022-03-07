@@ -3,5 +3,5 @@
 # git remote-v
 # git add .
 # git commit-m "st"
-# gitpush origin master
+# git push origin master
   
